@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\gopmang\bin\Debug\netcoreapp3.1\gopmang.exe
+C:\Users\Administrator\source\repos\gopmang\bin\Debug\netcoreapp3.1\gopmang.deps.json
+C:\Users\Administrator\source\repos\gopmang\bin\Debug\netcoreapp3.1\gopmang.runtimeconfig.json
+C:\Users\Administrator\source\repos\gopmang\bin\Debug\netcoreapp3.1\gopmang.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\gopmang\bin\Debug\netcoreapp3.1\gopmang.dll
+C:\Users\Administrator\source\repos\gopmang\bin\Debug\netcoreapp3.1\gopmang.pdb
+C:\Users\Administrator\source\repos\gopmang\obj\Debug\netcoreapp3.1\gopmang.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\gopmang\obj\Debug\netcoreapp3.1\gopmang.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\gopmang\obj\Debug\netcoreapp3.1\gopmang.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\gopmang\obj\Debug\netcoreapp3.1\gopmang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\gopmang\obj\Debug\netcoreapp3.1\gopmang.dll
+C:\Users\Administrator\source\repos\gopmang\obj\Debug\netcoreapp3.1\gopmang.pdb
+C:\Users\Administrator\source\repos\gopmang\obj\Debug\netcoreapp3.1\gopmang.genruntimeconfig.cache
